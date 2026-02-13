@@ -1,4 +1,3 @@
-# requirements.txstreamlit
+streamlit
 numpy
 plotly
-t
