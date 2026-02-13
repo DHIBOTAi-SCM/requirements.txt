@@ -1,1 +1,4 @@
-# requirements.txt
+# requirements.txstreamlit
+numpy
+plotly
+t
